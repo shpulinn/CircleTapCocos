@@ -1,0 +1,10 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "fitWidth": false,
+      "height": 1280,
+      "width": 720
+    }
+  }
+}
